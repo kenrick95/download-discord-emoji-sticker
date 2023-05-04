@@ -1,0 +1,1 @@
+export const AUTH_TOKEN = `INSERT YOUR AUTH TOKEN HERE`;

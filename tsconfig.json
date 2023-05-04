@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "strict": true,
+    "allowJs": true,
+    "checkJs": true,
+    "moduleResolution": "nodenext",
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["ESNext"]
+  }
+}
